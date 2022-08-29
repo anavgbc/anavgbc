@@ -1,7 +1,7 @@
 ### Hey there :) I'm Ana Verena Gomes
 
 - 🎨 I’m a Front end developer 
-- 👩‍💻 I’m currently learning TypeScript && ReactJS
+- 👩‍💻 I’m currently learning TypeScript && React
 - 🔭 I’m a Full Stack student at <a href="https://kenzie.com.br/quem-somos?utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=ppc&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&hsa_tgt=kwd-392539756225&hsa_kw=kenzie%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwx7GYBhB7EiwA0d8oe41a1YVdwIhWWArTZDv0ml9hs63311AVDNLZWp6Iu-Kdyb3P4yoWIRoCy-UQAvD_BwE" target="_blank">Kenzie Academy</a> 
 - ✨ Pronouns: she/her
 
