@@ -8,7 +8,7 @@
 ##
 
 <div align="center">
-<a href="https://github.com/anavgbc/github-readme-stats">
+<a href="https://github.com/anavgbc/">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=anavgbc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavgbc&layout=compact&langs_count=5&theme=radical"/>
 </a>
