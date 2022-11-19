@@ -1,7 +1,7 @@
 ### Oie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Me chamo Ana Verena Gomes 
 
 - 🎨 Desenvolvedora Front-end 
-- 👩‍💻 No momento, estudando React.Js, TypeScript e Node.Js
+- 👩‍💻 No momento, estudando Python
 - 🔭 Estudante de desenvolvimento Full Stack na <a href="https://kenzie.com.br/quem-somos?utm_term=kenzie%20academy&utm_campaign=INSC-PER-2022-TERMOS-MARCA-SEARCH&utm_source=adwords&utm_medium=ppc&hsa_acc=2166776305&hsa_cam=15853756022&hsa_grp=137371409172&hsa_ad=574454391791&hsa_src=g&hsa_tgt=kwd-392539756225&hsa_kw=kenzie%20academy&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwx7GYBhB7EiwA0d8oe41a1YVdwIhWWArTZDv0ml9hs63311AVDNLZWp6Iu-Kdyb3P4yoWIRoCy-UQAvD_BwE" target="_blank">Kenzie Academy</a> 
 - ✨ Pronomes: ela/dela
 
