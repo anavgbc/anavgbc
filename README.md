@@ -20,9 +20,10 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
-  <img align="center" alt="CSS" height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="nodejs" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/node-js.png">
+  <img align="center" alt="postgresql" height="40" width="40" src="https://img.icons8.com/color/48/000000/postgreesql.png">
+  <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="vueJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   
 </div>
 
