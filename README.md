@@ -1,8 +1,8 @@
-### Oie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Me chamo Ana Verena Gomes 
+### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
-- 🔭 Desenvolvedora Web Full Stack
-- 🎨 Estudante de Análise e desenvolvimento de sistemas
-- ✨ Pronomes: ela/dela
+- 🔭 Full Stack Web Developer
+- 🎨 Software engineering student
+- 📚 Currently learning Vue.Js 
 
 </div>
  
@@ -12,7 +12,7 @@
 </div>
   
   ##
-  ### Tecnologias
+  ### Stacks
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,7 +32,6 @@
 
 <div align="center">
 <a href="https://github.com/anavgbc/">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=anavgbc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anavgbc&layout=compact&langs_count=7&theme=radical"/>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=anavgbc&theme=radical&hide_border=true&background=FFFFFF00">
 </a>
@@ -43,7 +42,7 @@
 
 
   ##
-  ### Fala comigo! :)
+  ### Let's talk :)
   <div> 
     
   <a href="https://www.linkedin.com/in/agomesbc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
